@@ -1,1 +1,3 @@
-# pemrograman-mobile-tugas-variabel-dan-typedata
+Nama : Nailah Rahmawati Y
+Npm : 07352311121
+
